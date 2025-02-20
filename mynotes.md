@@ -8,7 +8,7 @@
 
 $d_1(I_1,I_2)=\displaystyle\sum_p \left| I_1^p-I_2^p \right|$
 
-其中 $p$ 就是图像的对应矩阵中的每一个元素。
+其中 $p$ 的范围就是遍历图像的对应矩阵中的每一个元素。
 
 #### L2 (Euclidian) Distance
 
